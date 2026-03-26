@@ -1,7 +1,5 @@
-# FSX Fuel Calculator v1.0
+# FSX Fuel Calculator v2.0
 Simple Fuel Calculator for Microsoft Flight Simulator X
 
 ## Todo
-- Make sure minimum weight is not greater than maximum weight of aircraft.
-- Ability to save, load, and remove aircraft data.
-
+Rewriting program using C++20 and Qt6.
