@@ -4,3 +4,5 @@ Simple Fuel Calculator for Microsoft Flight Simulator X
 ## Todo
 - Make sure minimum weight is not greater than maximum weight of aircraft.
 - Ability to save, load, and remove aircraft data.
+
+![Screenshot](screenshot.png)
